@@ -35,11 +35,7 @@ The project uses the `Mall_Customers.csv` dataset containing:
   - Silhouette Score for cluster evaluation
 
 ## 📁 Project Structure
-Customer Segmentation System/
-├── Customer Segmentation System.ipynb # Main Jupyter notebook
-├── Mall_Customers.csv # Dataset
-├── README.md # Project documentation
-└── requirements.txt # Python dependencies
+<img width="667" height="179" alt="Screenshot 2025-11-10 220723" src="https://github.com/user-attachments/assets/b024efa9-377e-4b22-9530-90f382c522c4" />
 
 ## Methodology
 1. Data Loading & Exploration
