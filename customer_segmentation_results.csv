@@ -1,0 +1,201 @@
+CustomerID,Gender,Age,Annual Income (k$),Spending Score (1-100),Gender_encoded,Age_Group,Income_Group,Spending_Group,Customer_Value,Spending_Income_Ratio,Cluster
+1,Male,19,15,39,1,Young (0-25),Low (<40k),Medium Spender,5.85,2.6,4
+2,Male,21,15,81,1,Young (0-25),Low (<40k),High Spender,12.15,5.4,2
+3,Female,20,16,6,0,Young (0-25),Low (<40k),Low Spender,0.96,0.375,4
+4,Female,23,16,77,0,Young (0-25),Low (<40k),High Spender,12.32,4.8125,2
+5,Female,31,17,40,0,Young Adult (26-35),Low (<40k),Medium Spender,6.8,2.3529411764705883,4
+6,Female,22,17,76,0,Young (0-25),Low (<40k),High Spender,12.92,4.470588235294118,2
+7,Female,35,18,6,0,Young Adult (26-35),Low (<40k),Low Spender,1.08,0.3333333333333333,4
+8,Female,23,18,94,0,Young (0-25),Low (<40k),High Spender,16.92,5.222222222222222,2
+9,Male,64,19,3,1,Elderly (55+),Low (<40k),Low Spender,0.57,0.15789473684210525,4
+10,Female,30,19,72,0,Young Adult (26-35),Low (<40k),High Spender,13.68,3.789473684210526,2
+11,Male,67,19,14,1,Elderly (55+),Low (<40k),Low Spender,2.66,0.7368421052631579,4
+12,Female,35,19,99,0,Young Adult (26-35),Low (<40k),High Spender,18.81,5.2105263157894735,2
+13,Female,58,20,15,0,Elderly (55+),Low (<40k),Low Spender,3.0,0.75,4
+14,Female,24,20,77,0,Young (0-25),Low (<40k),High Spender,15.4,3.85,2
+15,Male,37,20,13,1,Middle Age (36-45),Low (<40k),Low Spender,2.6,0.65,4
+16,Male,22,20,79,1,Young (0-25),Low (<40k),High Spender,15.8,3.95,2
+17,Female,35,21,35,0,Young Adult (26-35),Low (<40k),Medium Spender,7.35,1.6666666666666667,4
+18,Male,20,21,66,1,Young (0-25),Low (<40k),Medium Spender,13.86,3.142857142857143,2
+19,Male,52,23,29,1,Senior (46-55),Low (<40k),Low Spender,6.67,1.2608695652173914,4
+20,Female,35,23,98,0,Young Adult (26-35),Low (<40k),High Spender,22.54,4.260869565217392,2
+21,Male,35,24,35,1,Young Adult (26-35),Low (<40k),Medium Spender,8.4,1.4583333333333333,4
+22,Male,25,24,73,1,Young (0-25),Low (<40k),High Spender,17.52,3.0416666666666665,2
+23,Female,46,25,5,0,Senior (46-55),Low (<40k),Low Spender,1.25,0.2,4
+24,Male,31,25,73,1,Young Adult (26-35),Low (<40k),High Spender,18.25,2.92,2
+25,Female,54,28,14,0,Senior (46-55),Low (<40k),Low Spender,3.92,0.5,4
+26,Male,29,28,82,1,Young Adult (26-35),Low (<40k),High Spender,22.96,2.9285714285714284,2
+27,Female,45,28,32,0,Middle Age (36-45),Low (<40k),Low Spender,8.96,1.1428571428571428,4
+28,Male,35,28,61,1,Young Adult (26-35),Low (<40k),Medium Spender,17.08,2.1785714285714284,2
+29,Female,40,29,31,0,Middle Age (36-45),Low (<40k),Low Spender,8.99,1.0689655172413792,4
+30,Female,23,29,87,0,Young (0-25),Low (<40k),High Spender,25.23,3.0,2
+31,Male,60,30,4,1,Elderly (55+),Low (<40k),Low Spender,1.2,0.13333333333333333,4
+32,Female,21,30,73,0,Young (0-25),Low (<40k),High Spender,21.9,2.433333333333333,2
+33,Male,53,33,4,1,Senior (46-55),Low (<40k),Low Spender,1.32,0.12121212121212122,4
+34,Male,18,33,92,1,Young (0-25),Low (<40k),High Spender,30.36,2.787878787878788,2
+35,Female,49,33,14,0,Senior (46-55),Low (<40k),Low Spender,4.62,0.42424242424242425,4
+36,Female,21,33,81,0,Young (0-25),Low (<40k),High Spender,26.73,2.4545454545454546,2
+37,Female,42,34,17,0,Middle Age (36-45),Low (<40k),Low Spender,5.78,0.5,4
+38,Female,30,34,73,0,Young Adult (26-35),Low (<40k),High Spender,24.82,2.1470588235294117,2
+39,Female,36,37,26,0,Middle Age (36-45),Low (<40k),Low Spender,9.62,0.7027027027027027,4
+40,Female,20,37,75,0,Young (0-25),Low (<40k),High Spender,27.75,2.027027027027027,2
+41,Female,65,38,35,0,Elderly (55+),Low (<40k),Medium Spender,13.3,0.9210526315789473,4
+42,Male,24,38,92,1,Young (0-25),Low (<40k),High Spender,34.96,2.4210526315789473,2
+43,Male,48,39,36,1,Senior (46-55),Low (<40k),Medium Spender,14.04,0.9230769230769231,4
+44,Female,31,39,61,0,Young Adult (26-35),Low (<40k),Medium Spender,23.79,1.564102564102564,0
+45,Female,49,39,28,0,Senior (46-55),Low (<40k),Low Spender,10.92,0.717948717948718,4
+46,Female,24,39,65,0,Young (0-25),Low (<40k),Medium Spender,25.35,1.6666666666666667,2
+47,Female,50,40,55,0,Senior (46-55),Low (<40k),Medium Spender,22.0,1.375,0
+48,Female,27,40,47,0,Young Adult (26-35),Low (<40k),Medium Spender,18.8,1.175,0
+49,Female,29,40,42,0,Young Adult (26-35),Low (<40k),Medium Spender,16.8,1.05,0
+50,Female,31,40,42,0,Young Adult (26-35),Low (<40k),Medium Spender,16.8,1.05,0
+51,Female,49,42,52,0,Senior (46-55),Medium (40-70k),Medium Spender,21.84,1.2380952380952381,0
+52,Male,33,42,60,1,Young Adult (26-35),Medium (40-70k),Medium Spender,25.2,1.4285714285714286,0
+53,Female,31,43,54,0,Young Adult (26-35),Medium (40-70k),Medium Spender,23.22,1.255813953488372,0
+54,Male,59,43,60,1,Elderly (55+),Medium (40-70k),Medium Spender,25.8,1.3953488372093024,0
+55,Female,50,43,45,0,Senior (46-55),Medium (40-70k),Medium Spender,19.35,1.0465116279069768,0
+56,Male,47,43,41,1,Senior (46-55),Medium (40-70k),Medium Spender,17.63,0.9534883720930233,0
+57,Female,51,44,50,0,Senior (46-55),Medium (40-70k),Medium Spender,22.0,1.1363636363636365,0
+58,Male,69,44,46,1,Elderly (55+),Medium (40-70k),Medium Spender,20.24,1.0454545454545454,0
+59,Female,27,46,51,0,Young Adult (26-35),Medium (40-70k),Medium Spender,23.46,1.108695652173913,0
+60,Male,53,46,46,1,Senior (46-55),Medium (40-70k),Medium Spender,21.16,1.0,0
+61,Male,70,46,56,1,Elderly (55+),Medium (40-70k),Medium Spender,25.76,1.2173913043478262,0
+62,Male,19,46,55,1,Young (0-25),Medium (40-70k),Medium Spender,25.3,1.1956521739130435,0
+63,Female,67,47,52,0,Elderly (55+),Medium (40-70k),Medium Spender,24.44,1.1063829787234043,0
+64,Female,54,47,59,0,Senior (46-55),Medium (40-70k),Medium Spender,27.73,1.2553191489361701,0
+65,Male,63,48,51,1,Elderly (55+),Medium (40-70k),Medium Spender,24.48,1.0625,0
+66,Male,18,48,59,1,Young (0-25),Medium (40-70k),Medium Spender,28.32,1.2291666666666667,0
+67,Female,43,48,50,0,Middle Age (36-45),Medium (40-70k),Medium Spender,24.0,1.0416666666666667,0
+68,Female,68,48,48,0,Elderly (55+),Medium (40-70k),Medium Spender,23.04,1.0,0
+69,Male,19,48,59,1,Young (0-25),Medium (40-70k),Medium Spender,28.32,1.2291666666666667,0
+70,Female,32,48,47,0,Young Adult (26-35),Medium (40-70k),Medium Spender,22.56,0.9791666666666666,0
+71,Male,70,49,55,1,Elderly (55+),Medium (40-70k),Medium Spender,26.95,1.1224489795918366,0
+72,Female,47,49,42,0,Senior (46-55),Medium (40-70k),Medium Spender,20.58,0.8571428571428571,0
+73,Female,60,50,49,0,Elderly (55+),Medium (40-70k),Medium Spender,24.5,0.98,0
+74,Female,60,50,56,0,Elderly (55+),Medium (40-70k),Medium Spender,28.0,1.12,0
+75,Male,59,54,47,1,Elderly (55+),Medium (40-70k),Medium Spender,25.38,0.8703703703703703,0
+76,Male,26,54,54,1,Young Adult (26-35),Medium (40-70k),Medium Spender,29.16,1.0,0
+77,Female,45,54,53,0,Middle Age (36-45),Medium (40-70k),Medium Spender,28.62,0.9814814814814815,0
+78,Male,40,54,48,1,Middle Age (36-45),Medium (40-70k),Medium Spender,25.92,0.8888888888888888,0
+79,Female,23,54,52,0,Young (0-25),Medium (40-70k),Medium Spender,28.08,0.9629629629629629,0
+80,Female,49,54,42,0,Senior (46-55),Medium (40-70k),Medium Spender,22.68,0.7777777777777778,0
+81,Male,57,54,51,1,Elderly (55+),Medium (40-70k),Medium Spender,27.54,0.9444444444444444,0
+82,Male,38,54,55,1,Middle Age (36-45),Medium (40-70k),Medium Spender,29.7,1.0185185185185186,0
+83,Male,67,54,41,1,Elderly (55+),Medium (40-70k),Medium Spender,22.14,0.7592592592592593,0
+84,Female,46,54,44,0,Senior (46-55),Medium (40-70k),Medium Spender,23.76,0.8148148148148148,0
+85,Female,21,54,57,0,Young (0-25),Medium (40-70k),Medium Spender,30.78,1.0555555555555556,0
+86,Male,48,54,46,1,Senior (46-55),Medium (40-70k),Medium Spender,24.84,0.8518518518518519,0
+87,Female,55,57,58,0,Senior (46-55),Medium (40-70k),Medium Spender,33.06,1.0175438596491229,0
+88,Female,22,57,55,0,Young (0-25),Medium (40-70k),Medium Spender,31.35,0.9649122807017544,0
+89,Female,34,58,60,0,Young Adult (26-35),Medium (40-70k),Medium Spender,34.8,1.0344827586206897,0
+90,Female,50,58,46,0,Senior (46-55),Medium (40-70k),Medium Spender,26.68,0.7931034482758621,0
+91,Female,68,59,55,0,Elderly (55+),Medium (40-70k),Medium Spender,32.45,0.9322033898305084,0
+92,Male,18,59,41,1,Young (0-25),Medium (40-70k),Medium Spender,24.19,0.6949152542372882,0
+93,Male,48,60,49,1,Senior (46-55),Medium (40-70k),Medium Spender,29.4,0.8166666666666667,0
+94,Female,40,60,40,0,Middle Age (36-45),Medium (40-70k),Medium Spender,24.0,0.6666666666666666,0
+95,Female,32,60,42,0,Young Adult (26-35),Medium (40-70k),Medium Spender,25.2,0.7,0
+96,Male,24,60,52,1,Young (0-25),Medium (40-70k),Medium Spender,31.2,0.8666666666666667,0
+97,Female,47,60,47,0,Senior (46-55),Medium (40-70k),Medium Spender,28.2,0.7833333333333333,0
+98,Female,27,60,50,0,Young Adult (26-35),Medium (40-70k),Medium Spender,30.0,0.8333333333333334,0
+99,Male,48,61,42,1,Senior (46-55),Medium (40-70k),Medium Spender,25.62,0.6885245901639344,0
+100,Male,20,61,49,1,Young (0-25),Medium (40-70k),Medium Spender,29.89,0.8032786885245902,0
+101,Female,23,62,41,0,Young (0-25),Medium (40-70k),Medium Spender,25.42,0.6612903225806451,0
+102,Female,49,62,48,0,Senior (46-55),Medium (40-70k),Medium Spender,29.76,0.7741935483870968,0
+103,Male,67,62,59,1,Elderly (55+),Medium (40-70k),Medium Spender,36.58,0.9516129032258065,0
+104,Male,26,62,55,1,Young Adult (26-35),Medium (40-70k),Medium Spender,34.1,0.8870967741935484,0
+105,Male,49,62,56,1,Senior (46-55),Medium (40-70k),Medium Spender,34.72,0.9032258064516129,0
+106,Female,21,62,42,0,Young (0-25),Medium (40-70k),Medium Spender,26.04,0.6774193548387096,0
+107,Female,66,63,50,0,Elderly (55+),Medium (40-70k),Medium Spender,31.5,0.7936507936507936,0
+108,Male,54,63,46,1,Senior (46-55),Medium (40-70k),Medium Spender,28.98,0.7301587301587301,0
+109,Male,68,63,43,1,Elderly (55+),Medium (40-70k),Medium Spender,27.09,0.6825396825396826,0
+110,Male,66,63,48,1,Elderly (55+),Medium (40-70k),Medium Spender,30.24,0.7619047619047619,0
+111,Male,65,63,52,1,Elderly (55+),Medium (40-70k),Medium Spender,32.76,0.8253968253968254,0
+112,Female,19,63,54,0,Young (0-25),Medium (40-70k),Medium Spender,34.02,0.8571428571428571,0
+113,Female,38,64,42,0,Middle Age (36-45),Medium (40-70k),Medium Spender,26.88,0.65625,0
+114,Male,19,64,46,1,Young (0-25),Medium (40-70k),Medium Spender,29.44,0.71875,0
+115,Female,18,65,48,0,Young (0-25),Medium (40-70k),Medium Spender,31.2,0.7384615384615385,0
+116,Female,19,65,50,0,Young (0-25),Medium (40-70k),Medium Spender,32.5,0.7692307692307693,0
+117,Female,63,65,43,0,Elderly (55+),Medium (40-70k),Medium Spender,27.95,0.6615384615384615,0
+118,Female,49,65,59,0,Senior (46-55),Medium (40-70k),Medium Spender,38.35,0.9076923076923077,0
+119,Female,51,67,43,0,Senior (46-55),Medium (40-70k),Medium Spender,28.81,0.6417910447761194,0
+120,Female,50,67,57,0,Senior (46-55),Medium (40-70k),Medium Spender,38.19,0.8507462686567164,0
+121,Male,27,67,56,1,Young Adult (26-35),Medium (40-70k),Medium Spender,37.52,0.835820895522388,0
+122,Female,38,67,40,0,Middle Age (36-45),Medium (40-70k),Medium Spender,26.8,0.5970149253731343,0
+123,Female,40,69,58,0,Middle Age (36-45),Medium (40-70k),Medium Spender,40.02,0.8405797101449275,0
+124,Male,39,69,91,1,Middle Age (36-45),Medium (40-70k),High Spender,62.79,1.318840579710145,1
+125,Female,23,70,29,0,Young (0-25),Medium (40-70k),Low Spender,20.3,0.4142857142857143,3
+126,Female,31,70,77,0,Young Adult (26-35),Medium (40-70k),High Spender,53.9,1.1,1
+127,Male,43,71,35,1,Middle Age (36-45),High (70-100k),Medium Spender,24.85,0.49295774647887325,0
+128,Male,40,71,95,1,Middle Age (36-45),High (70-100k),High Spender,67.45,1.3380281690140845,1
+129,Male,59,71,11,1,Elderly (55+),High (70-100k),Low Spender,7.81,0.15492957746478872,3
+130,Male,38,71,75,1,Middle Age (36-45),High (70-100k),High Spender,53.25,1.056338028169014,1
+131,Male,47,71,9,1,Senior (46-55),High (70-100k),Low Spender,6.39,0.1267605633802817,3
+132,Male,39,71,75,1,Middle Age (36-45),High (70-100k),High Spender,53.25,1.056338028169014,1
+133,Female,25,72,34,0,Young (0-25),High (70-100k),Medium Spender,24.48,0.4722222222222222,0
+134,Female,31,72,71,0,Young Adult (26-35),High (70-100k),High Spender,51.12,0.9861111111111112,1
+135,Male,20,73,5,1,Young (0-25),High (70-100k),Low Spender,3.65,0.0684931506849315,3
+136,Female,29,73,88,0,Young Adult (26-35),High (70-100k),High Spender,64.24,1.2054794520547945,1
+137,Female,44,73,7,0,Middle Age (36-45),High (70-100k),Low Spender,5.11,0.0958904109589041,3
+138,Male,32,73,73,1,Young Adult (26-35),High (70-100k),High Spender,53.29,1.0,1
+139,Male,19,74,10,1,Young (0-25),High (70-100k),Low Spender,7.4,0.13513513513513514,3
+140,Female,35,74,72,0,Young Adult (26-35),High (70-100k),High Spender,53.28,0.972972972972973,1
+141,Female,57,75,5,0,Elderly (55+),High (70-100k),Low Spender,3.75,0.06666666666666667,3
+142,Male,32,75,93,1,Young Adult (26-35),High (70-100k),High Spender,69.75,1.24,1
+143,Female,28,76,40,0,Young Adult (26-35),High (70-100k),Medium Spender,30.4,0.5263157894736842,0
+144,Female,32,76,87,0,Young Adult (26-35),High (70-100k),High Spender,66.12,1.144736842105263,1
+145,Male,25,77,12,1,Young (0-25),High (70-100k),Low Spender,9.24,0.15584415584415584,3
+146,Male,28,77,97,1,Young Adult (26-35),High (70-100k),High Spender,74.69,1.2597402597402598,1
+147,Male,48,77,36,1,Senior (46-55),High (70-100k),Medium Spender,27.72,0.4675324675324675,3
+148,Female,32,77,74,0,Young Adult (26-35),High (70-100k),High Spender,56.98,0.961038961038961,1
+149,Female,34,78,22,0,Young Adult (26-35),High (70-100k),Low Spender,17.16,0.28205128205128205,3
+150,Male,34,78,90,1,Young Adult (26-35),High (70-100k),High Spender,70.2,1.1538461538461537,1
+151,Male,43,78,17,1,Middle Age (36-45),High (70-100k),Low Spender,13.26,0.21794871794871795,3
+152,Male,39,78,88,1,Middle Age (36-45),High (70-100k),High Spender,68.64,1.1282051282051282,1
+153,Female,44,78,20,0,Middle Age (36-45),High (70-100k),Low Spender,15.6,0.2564102564102564,3
+154,Female,38,78,76,0,Middle Age (36-45),High (70-100k),High Spender,59.28,0.9743589743589743,1
+155,Female,47,78,16,0,Senior (46-55),High (70-100k),Low Spender,12.48,0.20512820512820512,3
+156,Female,27,78,89,0,Young Adult (26-35),High (70-100k),High Spender,69.42,1.141025641025641,1
+157,Male,37,78,1,1,Middle Age (36-45),High (70-100k),Low Spender,0.78,0.01282051282051282,3
+158,Female,30,78,78,0,Young Adult (26-35),High (70-100k),High Spender,60.84,1.0,1
+159,Male,34,78,1,1,Young Adult (26-35),High (70-100k),Low Spender,0.78,0.01282051282051282,3
+160,Female,30,78,73,0,Young Adult (26-35),High (70-100k),High Spender,56.94,0.9358974358974359,1
+161,Female,56,79,35,0,Elderly (55+),High (70-100k),Medium Spender,27.65,0.4430379746835443,3
+162,Female,29,79,83,0,Young Adult (26-35),High (70-100k),High Spender,65.57,1.0506329113924051,1
+163,Male,19,81,5,1,Young (0-25),High (70-100k),Low Spender,4.05,0.06172839506172839,3
+164,Female,31,81,93,0,Young Adult (26-35),High (70-100k),High Spender,75.33,1.1481481481481481,1
+165,Male,50,85,26,1,Senior (46-55),High (70-100k),Low Spender,22.1,0.3058823529411765,3
+166,Female,36,85,75,0,Middle Age (36-45),High (70-100k),High Spender,63.75,0.8823529411764706,1
+167,Male,42,86,20,1,Middle Age (36-45),High (70-100k),Low Spender,17.2,0.23255813953488372,3
+168,Female,33,86,95,0,Young Adult (26-35),High (70-100k),High Spender,81.7,1.1046511627906976,1
+169,Female,36,87,27,0,Middle Age (36-45),High (70-100k),Low Spender,23.49,0.3103448275862069,3
+170,Male,32,87,63,1,Young Adult (26-35),High (70-100k),Medium Spender,54.81,0.7241379310344828,1
+171,Male,40,87,13,1,Middle Age (36-45),High (70-100k),Low Spender,11.31,0.14942528735632185,3
+172,Male,28,87,75,1,Young Adult (26-35),High (70-100k),High Spender,65.25,0.8620689655172413,1
+173,Male,36,87,10,1,Middle Age (36-45),High (70-100k),Low Spender,8.7,0.11494252873563218,3
+174,Male,36,87,92,1,Middle Age (36-45),High (70-100k),High Spender,80.04,1.0574712643678161,1
+175,Female,52,88,13,0,Senior (46-55),High (70-100k),Low Spender,11.44,0.14772727272727273,3
+176,Female,30,88,86,0,Young Adult (26-35),High (70-100k),High Spender,75.68,0.9772727272727273,1
+177,Male,58,88,15,1,Elderly (55+),High (70-100k),Low Spender,13.2,0.17045454545454544,3
+178,Male,27,88,69,1,Young Adult (26-35),High (70-100k),High Spender,60.72,0.7840909090909091,1
+179,Male,59,93,14,1,Elderly (55+),High (70-100k),Low Spender,13.02,0.15053763440860216,3
+180,Male,35,93,90,1,Young Adult (26-35),High (70-100k),High Spender,83.7,0.967741935483871,1
+181,Female,37,97,32,0,Middle Age (36-45),High (70-100k),Low Spender,31.04,0.32989690721649484,3
+182,Female,32,97,86,0,Young Adult (26-35),High (70-100k),High Spender,83.42,0.8865979381443299,1
+183,Male,46,98,15,1,Senior (46-55),High (70-100k),Low Spender,14.7,0.15306122448979592,3
+184,Female,29,98,88,0,Young Adult (26-35),High (70-100k),High Spender,86.24,0.8979591836734694,1
+185,Female,41,99,39,0,Middle Age (36-45),High (70-100k),Medium Spender,38.61,0.3939393939393939,3
+186,Male,30,99,97,1,Young Adult (26-35),High (70-100k),High Spender,96.03,0.9797979797979798,1
+187,Female,54,101,24,0,Senior (46-55),Very High (>100k),Low Spender,24.24,0.2376237623762376,3
+188,Male,28,101,68,1,Young Adult (26-35),Very High (>100k),High Spender,68.68,0.6732673267326733,1
+189,Female,41,103,17,0,Middle Age (36-45),Very High (>100k),Low Spender,17.51,0.1650485436893204,3
+190,Female,36,103,85,0,Middle Age (36-45),Very High (>100k),High Spender,87.55,0.8252427184466019,1
+191,Female,34,103,23,0,Young Adult (26-35),Very High (>100k),Low Spender,23.69,0.22330097087378642,3
+192,Female,32,103,69,0,Young Adult (26-35),Very High (>100k),High Spender,71.07,0.6699029126213593,1
+193,Male,33,113,8,1,Young Adult (26-35),Very High (>100k),Low Spender,9.04,0.07079646017699115,3
+194,Female,38,113,91,0,Middle Age (36-45),Very High (>100k),High Spender,102.83,0.8053097345132744,1
+195,Female,47,120,16,0,Senior (46-55),Very High (>100k),Low Spender,19.2,0.13333333333333333,3
+196,Female,35,120,79,0,Young Adult (26-35),Very High (>100k),High Spender,94.8,0.6583333333333333,1
+197,Female,45,126,28,0,Middle Age (36-45),Very High (>100k),Low Spender,35.28,0.2222222222222222,3
+198,Male,32,126,74,1,Young Adult (26-35),Very High (>100k),High Spender,93.24,0.5873015873015873,1
+199,Male,32,137,18,1,Young Adult (26-35),Very High (>100k),Low Spender,24.66,0.13138686131386862,3
+200,Male,30,137,83,1,Young Adult (26-35),Very High (>100k),High Spender,113.71,0.6058394160583942,1
